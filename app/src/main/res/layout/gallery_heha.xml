@@ -25,24 +25,24 @@
         android:id="@+id/heha2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="45dp"
-        android:layout_marginTop="320dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="330dp"
         android:src="@drawable/heha2" />
 
     <ImageView
         android:id="@+id/heha3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="180dp"
-        android:layout_marginTop="320dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="330dp"
         android:src="@drawable/heha3" />
 
     <ImageView
         android:id="@+id/heha6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="45dp"
-        android:layout_marginTop="433dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
         android:src="@drawable/heha6" />
 
     <ImageView
@@ -50,9 +50,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="585dp"
+        android:layout_marginTop="620dp"
         android:src="@drawable/komentar" />
-
 
 </RelativeLayout>
 

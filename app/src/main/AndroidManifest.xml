@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Travel_app">
         <activity android:name=".MainActivity"/>
+        <activity android:name=".GalleryHeha"/>
+        <activity android:name=".FormKomentar"/>
+        <activity android:name=".TampilKomentar"/>
         <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
